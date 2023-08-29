@@ -1,5 +1,5 @@
-# Django Portfolio/Resume/Blog website
-Working on Python skills while also setting up blog for Cloud Resume Challenge
+# Django Portfolio site
+Practice for Python skills.
 
 ## Development
 Completed RealPython.com project
